@@ -1,0 +1,4325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 77,
+        "flow": 2657,
+        "population_origin": 6067021,
+        "d_state": "HH",
+        "o_name": "Hessen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000437941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 1,
+        "flow": 18864,
+        "population_origin": 2834259,
+        "d_state": "HH",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.006655708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 2,
+        "flow": 8326,
+        "population_origin": 2834259,
+        "d_state": "NI",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002937628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 3,
+        "flow": 1069,
+        "population_origin": 2834259,
+        "d_state": "HB",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000377171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 4,
+        "flow": 5607,
+        "population_origin": 2834259,
+        "d_state": "NW",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001978295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 5,
+        "flow": 2027,
+        "population_origin": 2834259,
+        "d_state": "HE",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000715178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 6,
+        "flow": 895,
+        "population_origin": 2834259,
+        "d_state": "RP",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000315779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 7,
+        "flow": 2551,
+        "population_origin": 2834259,
+        "d_state": "BW",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000900059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 8,
+        "flow": 2788,
+        "population_origin": 2834259,
+        "d_state": "BY",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000983679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 9,
+        "flow": 160,
+        "population_origin": 2834259,
+        "d_state": "SL",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000564521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 10,
+        "flow": 2777,
+        "population_origin": 2834259,
+        "d_state": "BE",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000979798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 11,
+        "flow": 1080,
+        "population_origin": 2834259,
+        "d_state": "BB",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000381052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 12,
+        "flow": 1943,
+        "population_origin": 2834259,
+        "d_state": "MV",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000685541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 13,
+        "flow": 966,
+        "population_origin": 2834259,
+        "d_state": "SN",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00034083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 14,
+        "flow": 706,
+        "population_origin": 2834259,
+        "d_state": "ST",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000249095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.830004, 54.182233] },
+        "id": "SH",
+      "properties": {
+      "cartodb_id": 15,
+        "flow": 461,
+        "population_origin": 2834259,
+        "d_state": "TH",
+        "o_name": "Schleswig-Holstein",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000162653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 16,
+        "flow": 22009,
+        "population_origin": 1786448,
+        "d_state": "SH",
+        "o_name": "Hamburg",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.012319978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 17,
+        "flow": 11653,
+        "population_origin": 1786448,
+        "d_state": "NI",
+        "o_name": "Hamburg",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.006523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 18,
+        "flow": 1063,
+        "population_origin": 1786448,
+        "d_state": "HB",
+        "o_name": "Hamburg",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000595036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 19,
+        "flow": 4307,
+        "population_origin": 1786448,
+        "d_state": "NW",
+        "o_name": "Hamburg",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002410929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 20,
+        "flow": 1800,
+        "population_origin": 1786448,
+        "d_state": "HE",
+        "o_name": "Hamburg",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001007586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 21,
+        "flow": 626,
+        "population_origin": 1786448,
+        "d_state": "RP",
+        "o_name": "Hamburg",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000350416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 22,
+        "flow": 2199,
+        "population_origin": 1786448,
+        "d_state": "BW",
+        "o_name": "Hamburg",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001230934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 23,
+        "flow": 2545,
+        "population_origin": 1786448,
+        "d_state": "BY",
+        "o_name": "Hamburg",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001424615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 24,
+        "flow": 95,
+        "population_origin": 1786448,
+        "d_state": "SL",
+        "o_name": "Hamburg",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000531782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 25,
+        "flow": 3470,
+        "population_origin": 1786448,
+        "d_state": "BE",
+        "o_name": "Hamburg",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001942402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 26,
+        "flow": 677,
+        "population_origin": 1786448,
+        "d_state": "BB",
+        "o_name": "Hamburg",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000378964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 27,
+        "flow": 852,
+        "population_origin": 1786448,
+        "d_state": "MV",
+        "o_name": "Hamburg",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000476924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 28,
+        "flow": 699,
+        "population_origin": 1786448,
+        "d_state": "SN",
+        "o_name": "Hamburg",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000391279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 29,
+        "flow": 442,
+        "population_origin": 1786448,
+        "d_state": "ST",
+        "o_name": "Hamburg",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000247418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.030443, 53.544171] },
+        "id": "HH",
+      "properties": {
+      "cartodb_id": 30,
+        "flow": 330,
+        "population_origin": 1786448,
+        "d_state": "TH",
+        "o_name": "Hamburg",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000184724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 31,
+        "flow": 8907,
+        "population_origin": 7918293,
+        "d_state": "SH",
+        "o_name": "Niedersachsen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001124864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 32,
+        "flow": 12235,
+        "population_origin": 7918293,
+        "d_state": "HH",
+        "o_name": "Niedersachsen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001545156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 33,
+        "flow": 12868,
+        "population_origin": 7918293,
+        "d_state": "HB",
+        "o_name": "Niedersachsen",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001625098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 34,
+        "flow": 29955,
+        "population_origin": 7918293,
+        "d_state": "NW",
+        "o_name": "Niedersachsen",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.003783012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 35,
+        "flow": 7807,
+        "population_origin": 7918293,
+        "d_state": "HE",
+        "o_name": "Niedersachsen",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000985945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 36,
+        "flow": 3046,
+        "population_origin": 7918293,
+        "d_state": "RP",
+        "o_name": "Niedersachsen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000384679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 37,
+        "flow": 7279,
+        "population_origin": 7918293,
+        "d_state": "BW",
+        "o_name": "Niedersachsen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000919264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 38,
+        "flow": 7601,
+        "population_origin": 7918293,
+        "d_state": "BY",
+        "o_name": "Niedersachsen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000959929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 39,
+        "flow": 501,
+        "population_origin": 7918293,
+        "d_state": "SL",
+        "o_name": "Niedersachsen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000632712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 40,
+        "flow": 6095,
+        "population_origin": 7918293,
+        "d_state": "BE",
+        "o_name": "Niedersachsen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000769737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 41,
+        "flow": 2386,
+        "population_origin": 7918293,
+        "d_state": "BB",
+        "o_name": "Niedersachsen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000301328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 42,
+        "flow": 1057,
+        "population_origin": 7918293,
+        "d_state": "MV",
+        "o_name": "Niedersachsen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000133488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 43,
+        "flow": 2810,
+        "population_origin": 7918293,
+        "d_state": "SN",
+        "o_name": "Niedersachsen",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000354874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 44,
+        "flow": 5337,
+        "population_origin": 7918293,
+        "d_state": "ST",
+        "o_name": "Niedersachsen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000674009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.148482, 52.76385] },
+        "id": "NI",
+      "properties": {
+      "cartodb_id": 45,
+        "flow": 2293,
+        "population_origin": 7918293,
+        "d_state": "TH",
+        "o_name": "Niedersachsen",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000289583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 46,
+        "flow": 923,
+        "population_origin": 660706,
+        "d_state": "SH",
+        "o_name": "Bremen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00139699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 47,
+        "flow": 1453,
+        "population_origin": 660706,
+        "d_state": "HH",
+        "o_name": "Bremen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002199163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 48,
+        "flow": 12194,
+        "population_origin": 660706,
+        "d_state": "NI",
+        "o_name": "Bremen",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.018456015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 49,
+        "flow": 2191,
+        "population_origin": 660706,
+        "d_state": "NW",
+        "o_name": "Bremen",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00331615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 50,
+        "flow": 709,
+        "population_origin": 660706,
+        "d_state": "HE",
+        "o_name": "Bremen",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001073095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 51,
+        "flow": 307,
+        "population_origin": 660706,
+        "d_state": "RP",
+        "o_name": "Bremen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000464654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 52,
+        "flow": 749,
+        "population_origin": 660706,
+        "d_state": "BW",
+        "o_name": "Bremen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001133636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 53,
+        "flow": 814,
+        "population_origin": 660706,
+        "d_state": "BY",
+        "o_name": "Bremen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001232015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 54,
+        "flow": 55,
+        "population_origin": 660706,
+        "d_state": "SL",
+        "o_name": "Bremen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000832443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 55,
+        "flow": 1105,
+        "population_origin": 660706,
+        "d_state": "BE",
+        "o_name": "Bremen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001672453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 56,
+        "flow": 208,
+        "population_origin": 660706,
+        "d_state": "BB",
+        "o_name": "Bremen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000314815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 57,
+        "flow": 127,
+        "population_origin": 660706,
+        "d_state": "MV",
+        "o_name": "Bremen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000192219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 58,
+        "flow": 299,
+        "population_origin": 660706,
+        "d_state": "SN",
+        "o_name": "Bremen",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000452546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 59,
+        "flow": 192,
+        "population_origin": 660706,
+        "d_state": "ST",
+        "o_name": "Bremen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000290598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.752948, 53.192812] },
+        "id": "HB",
+      "properties": {
+      "cartodb_id": 60,
+        "flow": 124,
+        "population_origin": 660706,
+        "d_state": "TH",
+        "o_name": "Bremen",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000187678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 61,
+        "flow": 6882,
+        "population_origin": 17845154,
+        "d_state": "SH",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000385651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 62,
+        "flow": 6928,
+        "population_origin": 17845154,
+        "d_state": "HH",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000388229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 63,
+        "flow": 30621,
+        "population_origin": 17845154,
+        "d_state": "NI",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001715928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 64,
+        "flow": 2402,
+        "population_origin": 17845154,
+        "d_state": "HB",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000134602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 65,
+        "flow": 18911,
+        "population_origin": 17845154,
+        "d_state": "HE",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001059727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 66,
+        "flow": 17039,
+        "population_origin": 17845154,
+        "d_state": "RP",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000954825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 67,
+        "flow": 19045,
+        "population_origin": 17845154,
+        "d_state": "BW",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001067237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 68,
+        "flow": 19285,
+        "population_origin": 17845154,
+        "d_state": "BY",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001080686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 69,
+        "flow": 1556,
+        "population_origin": 17845154,
+        "d_state": "SL",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000871945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 70,
+        "flow": 11153,
+        "population_origin": 17845154,
+        "d_state": "BE",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000624988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 71,
+        "flow": 3134,
+        "population_origin": 17845154,
+        "d_state": "BB",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000175622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 72,
+        "flow": 799,
+        "population_origin": 17845154,
+        "d_state": "MV",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000447741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 73,
+        "flow": 4476,
+        "population_origin": 17845154,
+        "d_state": "SN",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000250824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 74,
+        "flow": 2799,
+        "population_origin": 17845154,
+        "d_state": "ST",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000156849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.553798, 51.473576] },
+        "id": "NW",
+      "properties": {
+      "cartodb_id": 75,
+        "flow": 2425,
+        "population_origin": 17845154,
+        "d_state": "TH",
+        "o_name": "Nordrhein-Westfalen",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000135891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 76,
+        "flow": 2311,
+        "population_origin": 6067021,
+        "d_state": "SH",
+        "o_name": "Hessen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000380912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 78,
+        "flow": 7668,
+        "population_origin": 6067021,
+        "d_state": "NI",
+        "o_name": "Hessen",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001263882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 79,
+        "flow": 711,
+        "population_origin": 6067021,
+        "d_state": "HB",
+        "o_name": "Hessen",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000117191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 80,
+        "flow": 18032,
+        "population_origin": 6067021,
+        "d_state": "NW",
+        "o_name": "Hessen",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002972134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 81,
+        "flow": 13857,
+        "population_origin": 6067021,
+        "d_state": "RP",
+        "o_name": "Hessen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002283987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 82,
+        "flow": 15094,
+        "population_origin": 6067021,
+        "d_state": "BW",
+        "o_name": "Hessen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002487877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 83,
+        "flow": 14194,
+        "population_origin": 6067021,
+        "d_state": "BY",
+        "o_name": "Hessen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002339534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 84,
+        "flow": 924,
+        "population_origin": 6067021,
+        "d_state": "SL",
+        "o_name": "Hessen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000152299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 85,
+        "flow": 5047,
+        "population_origin": 6067021,
+        "d_state": "BE",
+        "o_name": "Hessen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000831874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 86,
+        "flow": 1217,
+        "population_origin": 6067021,
+        "d_state": "BB",
+        "o_name": "Hessen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000200593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 87,
+        "flow": 288,
+        "population_origin": 6067021,
+        "d_state": "MV",
+        "o_name": "Hessen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000474698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 88,
+        "flow": 2498,
+        "population_origin": 6067021,
+        "d_state": "SN",
+        "o_name": "Hessen",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000411734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 89,
+        "flow": 1298,
+        "population_origin": 6067021,
+        "d_state": "ST",
+        "o_name": "Hessen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000213944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.036191, 50.601368] },
+        "id": "HE",
+      "properties": {
+      "cartodb_id": 90,
+        "flow": 2382,
+        "population_origin": 6067021,
+        "d_state": "TH",
+        "o_name": "Hessen",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000392614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 91,
+        "flow": 1030,
+        "population_origin": 4003745,
+        "d_state": "SH",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000257259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 92,
+        "flow": 867,
+        "population_origin": 4003745,
+        "d_state": "HH",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000216547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 93,
+        "flow": 3026,
+        "population_origin": 4003745,
+        "d_state": "NI",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000755792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 94,
+        "flow": 327,
+        "population_origin": 4003745,
+        "d_state": "HB",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000816735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 95,
+        "flow": 18328,
+        "population_origin": 4003745,
+        "d_state": "NW",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.004577714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 96,
+        "flow": 14568,
+        "population_origin": 4003745,
+        "d_state": "HE",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.003638593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 97,
+        "flow": 14307,
+        "population_origin": 4003745,
+        "d_state": "BW",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.003573404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 98,
+        "flow": 5462,
+        "population_origin": 4003745,
+        "d_state": "BY",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001364223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 99,
+        "flow": 4398,
+        "population_origin": 4003745,
+        "d_state": "SL",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001098472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 100,
+        "flow": 2170,
+        "population_origin": 4003745,
+        "d_state": "BE",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000541993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 101,
+        "flow": 677,
+        "population_origin": 4003745,
+        "d_state": "BB",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000169092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 102,
+        "flow": 175,
+        "population_origin": 4003745,
+        "d_state": "MV",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000437091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 103,
+        "flow": 1210,
+        "population_origin": 4003745,
+        "d_state": "SN",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000302217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 104,
+        "flow": 609,
+        "population_origin": 4003745,
+        "d_state": "ST",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000152108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [7.443825, 49.906526] },
+        "id": "RP",
+      "properties": {
+      "cartodb_id": 105,
+        "flow": 628,
+        "population_origin": 4003745,
+        "d_state": "TH",
+        "o_name": "Rheinland-Pfalz",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000156853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 106,
+        "flow": 2732,
+        "population_origin": 10753880,
+        "d_state": "SH",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000254048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 107,
+        "flow": 3168,
+        "population_origin": 10753880,
+        "d_state": "HH",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000294591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 108,
+        "flow": 6966,
+        "population_origin": 10753880,
+        "d_state": "NI",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000647766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 109,
+        "flow": 897,
+        "population_origin": 10753880,
+        "d_state": "HB",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000834118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 110,
+        "flow": 17645,
+        "population_origin": 10753880,
+        "d_state": "NW",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001640803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 111,
+        "flow": 16053,
+        "population_origin": 10753880,
+        "d_state": "HE",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001492764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 112,
+        "flow": 13985,
+        "population_origin": 10753880,
+        "d_state": "RP",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001300461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 113,
+        "flow": 34985,
+        "population_origin": 10753880,
+        "d_state": "BY",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.003253244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 114,
+        "flow": 1867,
+        "population_origin": 10753880,
+        "d_state": "SL",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000173612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 115,
+        "flow": 7223,
+        "population_origin": 10753880,
+        "d_state": "BE",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000671665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 116,
+        "flow": 2220,
+        "population_origin": 10753880,
+        "d_state": "BB",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000206437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 117,
+        "flow": 471,
+        "population_origin": 10753880,
+        "d_state": "MV",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000437981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 118,
+        "flow": 4666,
+        "population_origin": 10753880,
+        "d_state": "SN",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00043389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 119,
+        "flow": 1792,
+        "population_origin": 10753880,
+        "d_state": "ST",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000166638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.052661, 48.54226] },
+        "id": "BW",
+      "properties": {
+      "cartodb_id": 120,
+        "flow": 2334,
+        "population_origin": 10753880,
+        "d_state": "TH",
+        "o_name": "Baden-WŸrttemberg",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000217038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 121,
+        "flow": 2852,
+        "population_origin": 12538696,
+        "d_state": "SH",
+        "o_name": "Bayern",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000227456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 122,
+        "flow": 3271,
+        "population_origin": 12538696,
+        "d_state": "HH",
+        "o_name": "Bayern",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000260872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 123,
+        "flow": 7110,
+        "population_origin": 12538696,
+        "d_state": "NI",
+        "o_name": "Bayern",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000567045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 124,
+        "flow": 775,
+        "population_origin": 12538696,
+        "d_state": "HB",
+        "o_name": "Bayern",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000618087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 125,
+        "flow": 16872,
+        "population_origin": 12538696,
+        "d_state": "NW",
+        "o_name": "Bayern",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001345594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 126,
+        "flow": 13372,
+        "population_origin": 12538696,
+        "d_state": "HE",
+        "o_name": "Bayern",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001066459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 127,
+        "flow": 4746,
+        "population_origin": 12538696,
+        "d_state": "RP",
+        "o_name": "Bayern",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000378508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 128,
+        "flow": 32351,
+        "population_origin": 12538696,
+        "d_state": "BW",
+        "o_name": "Bayern",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002580093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 129,
+        "flow": 890,
+        "population_origin": 12538696,
+        "d_state": "SL",
+        "o_name": "Bayern",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000709803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 130,
+        "flow": 8196,
+        "population_origin": 12538696,
+        "d_state": "BE",
+        "o_name": "Bayern",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000653656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 131,
+        "flow": 2398,
+        "population_origin": 12538696,
+        "d_state": "BB",
+        "o_name": "Bayern",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000191248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 132,
+        "flow": 474,
+        "population_origin": 12538696,
+        "d_state": "MV",
+        "o_name": "Bayern",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000037803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 133,
+        "flow": 7401,
+        "population_origin": 12538696,
+        "d_state": "SN",
+        "o_name": "Bayern",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000590253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 134,
+        "flow": 2224,
+        "population_origin": 12538696,
+        "d_state": "ST",
+        "o_name": "Bayern",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000177371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.411015, 48.941495] },
+        "id": "BY",
+      "properties": {
+      "cartodb_id": 135,
+        "flow": 4563,
+        "population_origin": 12538696,
+        "d_state": "TH",
+        "o_name": "Bayern",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000363913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 136,
+        "flow": 192,
+        "population_origin": 1017567,
+        "d_state": "SH",
+        "o_name": "Saarland",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000188685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 137,
+        "flow": 185,
+        "population_origin": 1017567,
+        "d_state": "HH",
+        "o_name": "Saarland",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000181806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 138,
+        "flow": 497,
+        "population_origin": 1017567,
+        "d_state": "NI",
+        "o_name": "Saarland",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00048842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 139,
+        "flow": 46,
+        "population_origin": 1017567,
+        "d_state": "HB",
+        "o_name": "Saarland",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000452059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 140,
+        "flow": 1944,
+        "population_origin": 1017567,
+        "d_state": "NW",
+        "o_name": "Saarland",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001910439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 141,
+        "flow": 1161,
+        "population_origin": 1017567,
+        "d_state": "HE",
+        "o_name": "Saarland",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001140957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 142,
+        "flow": 4620,
+        "population_origin": 1017567,
+        "d_state": "RP",
+        "o_name": "Saarland",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.004540242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 143,
+        "flow": 2263,
+        "population_origin": 1017567,
+        "d_state": "BW",
+        "o_name": "Saarland",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002223932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 144,
+        "flow": 1157,
+        "population_origin": 1017567,
+        "d_state": "BY",
+        "o_name": "Saarland",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001137026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 145,
+        "flow": 504,
+        "population_origin": 1017567,
+        "d_state": "BE",
+        "o_name": "Saarland",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000495299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 146,
+        "flow": 128,
+        "population_origin": 1017567,
+        "d_state": "BB",
+        "o_name": "Saarland",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00012579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 147,
+        "flow": 22,
+        "population_origin": 1017567,
+        "d_state": "MV",
+        "o_name": "Saarland",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000216202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 148,
+        "flow": 307,
+        "population_origin": 1017567,
+        "d_state": "SN",
+        "o_name": "Saarland",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0003017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 149,
+        "flow": 83,
+        "population_origin": 1017567,
+        "d_state": "ST",
+        "o_name": "Saarland",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000815671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.941142, 49.37688] },
+        "id": "SL",
+      "properties": {
+      "cartodb_id": 150,
+        "flow": 106,
+        "population_origin": 1017567,
+        "d_state": "TH",
+        "o_name": "Saarland",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00010417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 151,
+        "flow": 2433,
+        "population_origin": 3460725,
+        "d_state": "SH",
+        "o_name": "Berlin",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000703032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 152,
+        "flow": 2794,
+        "population_origin": 3460725,
+        "d_state": "HH",
+        "o_name": "Berlin",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000807345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 153,
+        "flow": 4628,
+        "population_origin": 3460725,
+        "d_state": "NI",
+        "o_name": "Berlin",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001337292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 154,
+        "flow": 674,
+        "population_origin": 3460725,
+        "d_state": "HB",
+        "o_name": "Berlin",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000194757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 155,
+        "flow": 7508,
+        "population_origin": 3460725,
+        "d_state": "NW",
+        "o_name": "Berlin",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002169488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 156,
+        "flow": 3544,
+        "population_origin": 3460725,
+        "d_state": "HE",
+        "o_name": "Berlin",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001024063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 157,
+        "flow": 1331,
+        "population_origin": 3460725,
+        "d_state": "RP",
+        "o_name": "Berlin",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000384601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 158,
+        "flow": 5161,
+        "population_origin": 3460725,
+        "d_state": "BW",
+        "o_name": "Berlin",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001491306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 159,
+        "flow": 6242,
+        "population_origin": 3460725,
+        "d_state": "BY",
+        "o_name": "Berlin",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001803668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 160,
+        "flow": 313,
+        "population_origin": 3460725,
+        "d_state": "SL",
+        "o_name": "Berlin",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000904435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 161,
+        "flow": 25604,
+        "population_origin": 3460725,
+        "d_state": "BB",
+        "o_name": "Berlin",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00739845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 162,
+        "flow": 912,
+        "population_origin": 3460725,
+        "d_state": "MV",
+        "o_name": "Berlin",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000263529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 163,
+        "flow": 3195,
+        "population_origin": 3460725,
+        "d_state": "SN",
+        "o_name": "Berlin",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000923217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 164,
+        "flow": 1841,
+        "population_origin": 3460725,
+        "d_state": "ST",
+        "o_name": "Berlin",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000531969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.404495, 52.500215] },
+        "id": "BE",
+      "properties": {
+      "cartodb_id": 165,
+        "flow": 1232,
+        "population_origin": 3460725,
+        "d_state": "TH",
+        "o_name": "Berlin",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000355995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 166,
+        "flow": 1379,
+        "population_origin": 2503273,
+        "d_state": "SH",
+        "o_name": "Brandenburg",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000550879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 167,
+        "flow": 1110,
+        "population_origin": 2503273,
+        "d_state": "HH",
+        "o_name": "Brandenburg",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000443419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 168,
+        "flow": 2860,
+        "population_origin": 2503273,
+        "d_state": "NI",
+        "o_name": "Brandenburg",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001142504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 169,
+        "flow": 255,
+        "population_origin": 2503273,
+        "d_state": "HB",
+        "o_name": "Brandenburg",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000101867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 170,
+        "flow": 3263,
+        "population_origin": 2503273,
+        "d_state": "NW",
+        "o_name": "Brandenburg",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001303493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 171,
+        "flow": 1325,
+        "population_origin": 2503273,
+        "d_state": "HE",
+        "o_name": "Brandenburg",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000529307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 172,
+        "flow": 790,
+        "population_origin": 2503273,
+        "d_state": "RP",
+        "o_name": "Brandenburg",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000315587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 173,
+        "flow": 2341,
+        "population_origin": 2503273,
+        "d_state": "BW",
+        "o_name": "Brandenburg",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000935176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 174,
+        "flow": 2805,
+        "population_origin": 2503273,
+        "d_state": "BY",
+        "o_name": "Brandenburg",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001120533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 175,
+        "flow": 119,
+        "population_origin": 2503273,
+        "d_state": "SL",
+        "o_name": "Brandenburg",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000475378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 176,
+        "flow": 23788,
+        "population_origin": 2503273,
+        "d_state": "BE",
+        "o_name": "Brandenburg",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.009502759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 177,
+        "flow": 897,
+        "population_origin": 2503273,
+        "d_state": "MV",
+        "o_name": "Brandenburg",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000358331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 178,
+        "flow": 4760,
+        "population_origin": 2503273,
+        "d_state": "SN",
+        "o_name": "Brandenburg",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001901511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 179,
+        "flow": 2282,
+        "population_origin": 2503273,
+        "d_state": "ST",
+        "o_name": "Brandenburg",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000911607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.392325, 52.469235] },
+        "id": "BB",
+      "properties": {
+      "cartodb_id": 180,
+        "flow": 988,
+        "population_origin": 2503273,
+        "d_state": "TH",
+        "o_name": "Brandenburg",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000394683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 181,
+        "flow": 2398,
+        "population_origin": 1642327,
+        "d_state": "SH",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001460123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 182,
+        "flow": 1456,
+        "population_origin": 1642327,
+        "d_state": "HH",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000886547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 183,
+        "flow": 1115,
+        "population_origin": 1642327,
+        "d_state": "NI",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000678915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 184,
+        "flow": 161,
+        "population_origin": 1642327,
+        "d_state": "HB",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000980316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 185,
+        "flow": 851,
+        "population_origin": 1642327,
+        "d_state": "NW",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000518167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 186,
+        "flow": 299,
+        "population_origin": 1642327,
+        "d_state": "HE",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000182059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 187,
+        "flow": 150,
+        "population_origin": 1642327,
+        "d_state": "RP",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000913338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 188,
+        "flow": 468,
+        "population_origin": 1642327,
+        "d_state": "BW",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000284962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 189,
+        "flow": 447,
+        "population_origin": 1642327,
+        "d_state": "BY",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000272175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 190,
+        "flow": 22,
+        "population_origin": 1642327,
+        "d_state": "SL",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000133956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 191,
+        "flow": 1274,
+        "population_origin": 1642327,
+        "d_state": "BE",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000775729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 192,
+        "flow": 676,
+        "population_origin": 1642327,
+        "d_state": "BB",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000411611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 193,
+        "flow": 531,
+        "population_origin": 1642327,
+        "d_state": "SN",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000323322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 194,
+        "flow": 296,
+        "population_origin": 1642327,
+        "d_state": "ST",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000180232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.516785, 53.751593] },
+        "id": "MV",
+      "properties": {
+      "cartodb_id": 195,
+        "flow": 187,
+        "population_origin": 1642327,
+        "d_state": "TH",
+        "o_name": "Mecklenburg-Vorpommern",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000113863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 196,
+        "flow": 1122,
+        "population_origin": 4149477,
+        "d_state": "SH",
+        "o_name": "Sachsen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000270396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 197,
+        "flow": 1189,
+        "population_origin": 4149477,
+        "d_state": "HH",
+        "o_name": "Sachsen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000286542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 198,
+        "flow": 3197,
+        "population_origin": 4149477,
+        "d_state": "NI",
+        "o_name": "Sachsen",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000770459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 199,
+        "flow": 361,
+        "population_origin": 4149477,
+        "d_state": "HB",
+        "o_name": "Sachsen",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000869989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 200,
+        "flow": 5074,
+        "population_origin": 4149477,
+        "d_state": "NW",
+        "o_name": "Sachsen",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001222805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 201,
+        "flow": 3227,
+        "population_origin": 4149477,
+        "d_state": "HE",
+        "o_name": "Sachsen",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000777688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 202,
+        "flow": 1332,
+        "population_origin": 4149477,
+        "d_state": "RP",
+        "o_name": "Sachsen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000321004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 203,
+        "flow": 5773,
+        "population_origin": 4149477,
+        "d_state": "BW",
+        "o_name": "Sachsen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.00139126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 204,
+        "flow": 9228,
+        "population_origin": 4149477,
+        "d_state": "BY",
+        "o_name": "Sachsen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002223895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 205,
+        "flow": 228,
+        "population_origin": 4149477,
+        "d_state": "SL",
+        "o_name": "Sachsen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000549467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 206,
+        "flow": 5409,
+        "population_origin": 4149477,
+        "d_state": "BE",
+        "o_name": "Sachsen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001303538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 207,
+        "flow": 3952,
+        "population_origin": 4149477,
+        "d_state": "BB",
+        "o_name": "Sachsen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000952409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 208,
+        "flow": 569,
+        "population_origin": 4149477,
+        "d_state": "MV",
+        "o_name": "Sachsen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000137126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 209,
+        "flow": 4581,
+        "population_origin": 4149477,
+        "d_state": "ST",
+        "o_name": "Sachsen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001103995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.345098, 51.044691] },
+        "id": "SN",
+      "properties": {
+      "cartodb_id": 210,
+        "flow": 4558,
+        "population_origin": 4149477,
+        "d_state": "TH",
+        "o_name": "Sachsen",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001098452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 211,
+        "flow": 1001,
+        "population_origin": 2335006,
+        "d_state": "SH",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000428693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 212,
+        "flow": 895,
+        "population_origin": 2335006,
+        "d_state": "HH",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000383297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 213,
+        "flow": 7068,
+        "population_origin": 2335006,
+        "d_state": "NI",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.003026973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 214,
+        "flow": 237,
+        "population_origin": 2335006,
+        "d_state": "HB",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000101499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 215,
+        "flow": 3485,
+        "population_origin": 2335006,
+        "d_state": "NW",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001492502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 216,
+        "flow": 1816,
+        "population_origin": 2335006,
+        "d_state": "HE",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000777728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 217,
+        "flow": 730,
+        "population_origin": 2335006,
+        "d_state": "RP",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000312633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 218,
+        "flow": 2269,
+        "population_origin": 2335006,
+        "d_state": "BW",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000971732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 219,
+        "flow": 3166,
+        "population_origin": 2335006,
+        "d_state": "BY",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001355885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 220,
+        "flow": 142,
+        "population_origin": 2335006,
+        "d_state": "SL",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000608135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 221,
+        "flow": 3206,
+        "population_origin": 2335006,
+        "d_state": "BE",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001373016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 222,
+        "flow": 2467,
+        "population_origin": 2335006,
+        "d_state": "BB",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001056528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 223,
+        "flow": 475,
+        "population_origin": 2335006,
+        "d_state": "MV",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000203426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 224,
+        "flow": 6252,
+        "population_origin": 2335006,
+        "d_state": "SN",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002677509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.696722, 52.000984] },
+        "id": "ST",
+      "properties": {
+      "cartodb_id": 225,
+        "flow": 2825,
+        "population_origin": 2335006,
+        "d_state": "TH",
+        "o_name": "Sachsen-Anhalt",
+        "d_name": "ThŸringen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001209847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 226,
+        "flow": 620,
+        "population_origin": 2235025,
+        "d_state": "SH",
+        "o_name": "ThŸringen",
+        "d_name": "Schleswig-Holstein",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000277402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 227,
+        "flow": 584,
+        "population_origin": 2235025,
+        "d_state": "HH",
+        "o_name": "ThŸringen",
+        "d_name": "Hamburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000261295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 228,
+        "flow": 2717,
+        "population_origin": 2235025,
+        "d_state": "NI",
+        "o_name": "ThŸringen",
+        "d_name": "Niedersachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001215646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 229,
+        "flow": 197,
+        "population_origin": 2235025,
+        "d_state": "HB",
+        "o_name": "ThŸringen",
+        "d_name": "Bremen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000881422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 230,
+        "flow": 3134,
+        "population_origin": 2235025,
+        "d_state": "NW",
+        "o_name": "ThŸringen",
+        "d_name": "Nordrhein-Westfalen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001402221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 231,
+        "flow": 3384,
+        "population_origin": 2235025,
+        "d_state": "HE",
+        "o_name": "ThŸringen",
+        "d_name": "Hessen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001514077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 232,
+        "flow": 890,
+        "population_origin": 2235025,
+        "d_state": "RP",
+        "o_name": "ThŸringen",
+        "d_name": "Rheinland-Pfalz",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000398206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 233,
+        "flow": 2984,
+        "population_origin": 2235025,
+        "d_state": "BW",
+        "o_name": "ThŸringen",
+        "d_name": "Baden-WŸrttemberg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001335108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 234,
+        "flow": 6177,
+        "population_origin": 2235025,
+        "d_state": "BY",
+        "o_name": "ThŸringen",
+        "d_name": "Bayern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002763727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 235,
+        "flow": 104,
+        "population_origin": 2235025,
+        "d_state": "SL",
+        "o_name": "ThŸringen",
+        "d_name": "Saarland",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.0000465319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 236,
+        "flow": 2062,
+        "population_origin": 2235025,
+        "d_state": "BE",
+        "o_name": "ThŸringen",
+        "d_name": "Berlin",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000922585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 237,
+        "flow": 991,
+        "population_origin": 2235025,
+        "d_state": "BB",
+        "o_name": "ThŸringen",
+        "d_name": "Brandenburg",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000443395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 238,
+        "flow": 239,
+        "population_origin": 2235025,
+        "d_state": "MV",
+        "o_name": "ThŸringen",
+        "d_name": "Mecklenburg-Vorpommern",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.000106934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 239,
+        "flow": 5638,
+        "population_origin": 2235025,
+        "d_state": "SN",
+        "o_name": "ThŸringen",
+        "d_name": "Sachsen",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.002522567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.023867, 50.896648] },
+        "id": "TH",
+      "properties": {
+      "cartodb_id": 240,
+        "flow": 2500,
+        "population_origin": 2235025,
+        "d_state": "ST",
+        "o_name": "ThŸringen",
+        "d_name": "Sachsen-Anhalt",
+        "field_9": "",
+        "field_10": "",
+        "field_11": "",
+        "field_12": "",
+        "norm_flow": 0.001118556
+      }
+    }
+  ]
+}

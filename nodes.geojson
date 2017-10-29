@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": "AD", "properties": { "LAT": 42.54621238, "LON": 1.60028625 }, "geometry": { "type": "Point", "coordinates": [ 1.600286250000011, 42.546212380000043 ] } },
+{ "type": "Feature", "id": "AE", "properties": { "LAT": 23.43308054, "LON": 53.97918943 }, "geometry": { "type": "Point", "coordinates": [ 53.979189432000084, 23.433080544000035 ] } },
+{ "type": "Feature", "id": "AF", "properties": { "LAT": 31.35310558, "LON": 67.67893717 }, "geometry": { "type": "Point", "coordinates": [ 65.581814586000093, 33.650822491000042 ] } }
+]
+}
+ 

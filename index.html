@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="http://rawgit.com/geodesign/spatialsankey/master/spatialsankey.js"></script>
+    <style>
+        #map {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            height: 100%;
+        }
+
+        .leaflet-map-pane,
+        .leaflet-objects-pane,
+        .leaflet-overlay-pane,
+        g.leaflet-zoom-hide {
+            height: 100%;
+            width: 100%;
+        }
+
+        path {
+            fill: none;
+            stroke: #16E4FF;
+            stroke-opacity: 0.6;
+            stroke-linecap: round;
+            cursor: pointer;
+        }
+
+        path:hover {
+            stroke-opacity: 0.8;
+            stroke: #def;
+            /* stroke: #A0F6FF; */
+        }
+
+        .curvesettings {
+            position: absolute;
+            right: 10px;
+            top: 6px;
+        }
+
+        .box {
+            border: 1px solid #EEE;
+            margin: 3px;
+            padding: 5px;
+            background-color: white;
+            font-family: sans-serif;
+            font-size: 12px;
+        }
+
+        .title {
+            font-weight: 600;
+        }
+
+        .source {
+            position: absolute;
+            width: 50%;
+            top: 6px;
+            left: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script src="spatialsankey.js"></script>
+    <script>
+        // ------------------------------------------------------------
+        // NOTE
+        // Using d3 v4 = modified spatialsankey linear to scaleLinear
+        // Using OALD Leaflet v0.7.3
+        // ------------------------------------------------------------
+        const display = (error, links, nodes) => {
+            if (error) {
+                console.log(error);
+            }
+            // console.log(states);
+            var map = L.map('map').setView([51.505, 9.0], 9);
+            L.tileLayer(
+                'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+                    subdomains: 'abcd',
+                    maxZoom: 19
+                }).addTo(map);
+            // L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            //     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            // }).addTo(map);
+
+            // Initialize the SVG layer
+            map._initPathRoot()
+
+            // set style options for links
+            var options = {
+                'use_arcs': true,
+                'flip': false
+            };
+
+            // Setup svg element to work with
+            var svg = d3.select("#map").select("svg"),
+                linklayer = svg.append("g").attr("class", "leaflet-zoom-hide"),
+                nodelayer = svg.append("g").attr("class", "leaflet-zoom-hide");
+
+            // Instantiate spatial sankey 
+            var spatialsankey = d3.spatialsankey().lmap(map).nodes(nodes.features).links(links);
+
+            var nodelinks = spatialsankey.links()
+
+            // Add data to link layer
+            var beziers = linklayer.selectAll("path").data(nodelinks);
+
+            link = spatialsankey.link(options);
+
+            // Draw new links
+            beziers.enter()
+                .append("path")
+                .attr("d", link)
+                .style("stroke-width", spatialsankey.link().width());
+
+            // Draw nodes
+            var node = spatialsankey.node()
+            var circs = nodelayer.selectAll("circle")
+                .data(() => {
+                    spatialsankey.nodes();
+                    console.log('spatialsankey.nodes(): ', spatialsankey.nodes())
+                    return spatialsankey.nodes();
+                })
+                .enter()
+                .append("circle")
+                .attr("cx", node.cx)
+                .attr("cy", node.cy)
+                .attr("r", node.r)
+                .style("fill", node.fill)
+                .attr("opacity", 0.1)
+
+            // Adopt size of drawn objects after leaflet zoom reset
+            var zoomend = function () {
+                linklayer.selectAll("path").attr("d", spatialsankey.link());
+                circs.attr("cx", node.cx)
+                    .attr("cy", node.cy);
+            };
+
+            // re-draw after zoom and such
+            map.on("zoomend", zoomend);
+        }
+
+        d3.queue()
+            .defer(d3.csv, "links.csv")
+            .defer(d3.json, "state_migration_normalised_1_copy.geojson")
+            // .defer(d3.csv, "_links.csv")
+            // .defer(d3.json, "nodes.geojson")
+            .await(display)
+    </script>
+</body>
+
+</html>
